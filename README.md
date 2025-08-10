@@ -24,6 +24,7 @@ A simple **Command Line Interface (CLI)** based Java application that performs *
 
 ---
 
+
 =======
 # Student Record Management System
 
@@ -48,6 +49,3 @@ A simple **Command Line Interface (CLI)** based Java application that performs *
 -  Object-Oriented Programming (OOP)
 -  Command-Line Interface (CLI)
 
----
-
->>>>>>> 3c0775b (Initial commit of Student Record Management project)
