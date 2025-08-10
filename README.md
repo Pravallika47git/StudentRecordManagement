@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Record Management System
 
 A simple **Command Line Interface (CLI)** based Java application that performs **CRUD operations** (Create, Read, Update, Delete) on student records. Designed to help understand object-oriented programming, file structure, and core Java concepts.
@@ -48,4 +47,5 @@ A simple **Command Line Interface (CLI)** based Java application that performs *
 -  ArrayList (for storing data in memory)
 -  Object-Oriented Programming (OOP)
 -  Command-Line Interface (CLI)
+
 
